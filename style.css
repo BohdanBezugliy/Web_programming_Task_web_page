@@ -1,0 +1,18 @@
+header a{
+    text-decoration: none;
+    color:inherit;
+    margin: 0px 15px 0px 15px;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.container_img_header{
+    width: 10%;
+    display: flex;
+    justify-content: center;
+}
+.container_img_header img{
+    height: 50px;
+}
